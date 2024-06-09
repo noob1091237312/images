@@ -1,0 +1,1 @@
+FROM bitnami/kaniko:1.23.1
